@@ -1,0 +1,9 @@
+/Users/jaiminraval27/Documents/rust-projects/superDev-rust-server/superdev-rust-server/target/debug/deps/spl_discriminator_syn-abc3c7f11b4bf2ed.d: /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/lib.rs /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/error.rs /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/parser.rs
+
+/Users/jaiminraval27/Documents/rust-projects/superDev-rust-server/superdev-rust-server/target/debug/deps/libspl_discriminator_syn-abc3c7f11b4bf2ed.rlib: /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/lib.rs /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/error.rs /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/parser.rs
+
+/Users/jaiminraval27/Documents/rust-projects/superDev-rust-server/superdev-rust-server/target/debug/deps/libspl_discriminator_syn-abc3c7f11b4bf2ed.rmeta: /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/lib.rs /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/error.rs /Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/parser.rs
+
+/Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/lib.rs:
+/Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/error.rs:
+/Users/jaiminraval27/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-discriminator-syn-0.1.2/src/parser.rs:
